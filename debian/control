@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: OldStandard.h
-Description: OldStandard font for DisplayCore
+Description: OldStandard
