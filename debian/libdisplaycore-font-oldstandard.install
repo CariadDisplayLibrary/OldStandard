@@ -1,2 +1,3 @@
-OldStandard.cpp libraries/DisplayCore/OldStandard
-OldStandard.h libraries/DisplayCore/OldStandard
+library.json libraries/DisplayCore/OldStandard
+library.properties libraries/DisplayCore/OldStandard
+src libraries/DisplayCore/OldStandard
